@@ -10,7 +10,7 @@ A coontinuación se mostrarán capturas de pantalla de la pagina Restaurante Are
 
 Imagen 1: (Pagina HOME de la Pagina). 
 
-![image](![image](https://user-images.githubusercontent.com/105054694/169011982-ff925b74-3787-41bb-82e5-75174fc14546.png))
+![image](https://user-images.githubusercontent.com/105054694/169012232-65f005ec-ec6a-42ff-93af-daf0c1aaa103.png)
 
 
 Imagen 2: (Pestaña La carta de la Pagina).
